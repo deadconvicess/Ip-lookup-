@@ -1,2 +1,4 @@
-# Ip-lookup-
-simple python coded ip lookup script
+Simpe ip lookup script in python
+
+[Open Source]
+[Simple Python]
